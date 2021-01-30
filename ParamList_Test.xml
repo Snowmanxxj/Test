@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ParamList>
+    <Group group="1" name="CAN通讯参数" visible="超级用户" />
+    <Group group="4" name="以太网参数" visible="超级用户" />
+    <Group group="5" name="系统事件" visible="超级用户" />
+    <Group group="6" name="系统告警" visible="超级用户" />
+    <Group group="7" name="系统告警使能" visible="超级用户" />
+    <Group group="8" name="系统故障" visible="超级用户" />
+    <Group group="25" name="请输入参数组名称" visible="超级用户" />
+    <Group group="36" name="请输入参数组名称" visible="超级用户" />
+    <Param group="1" id="1" name="项1" unit="3" dataType="int8" format="bit16" visible="普通用户" wrRight="普通用户" desc="" value=""></Param>
+    <Param group="1" id="2" name="项1" unit="3" dataType="uint16" format="uint16" visible="超级用户" wrRight="超级用户" desc="" value="" />
+    <Param group="3" id="3" name="" unit="" dataType="uint16" format="uint16" visible="超级用户" wrRight="超级用户" desc="" value="" />
+    <Param group="1" id="4" name="" unit="" dataType="uint16" format="uint16" visible="超级用户" wrRight="超级用户" desc="" value="" />
+    <Param group="1" id="5" name="" unit="" dataType="uint16" format="uint16" visible="超级用户" wrRight="超级用户" desc="" value="" />
+    <Param group="1" id="6" name="" unit="" dataType="uint16" format="uint16" visible="超级用户" wrRight="超级用户" desc="" value="" />
+    <Param group="1" id="7" name="" unit="" dataType="uint16" format="uint16" visible="超级用户" wrRight="超级用户" desc="" value="" />
+    <Param group="4" id="1" name="项2" unit="2" dataType="int8" format="uint8" visible="超级用户" wrRight="超级用户" desc="" value=""></Param>
+    <Param group="4" id="2" name="" unit="" dataType="uint8" format="uint16" visible="超级用户" wrRight="超级用户" desc="" value="" />
+    <Param group="4" id="3" name="" unit="" dataType="int8" format="uint16" visible="超级用户" wrRight="超级用户" desc="" value="" />
+    <Param group="4" id="4" name="项2" unit="kW" dataType="int16" format="uint8" visible="超级用户" wrRight="超级用户" desc="" value="" />
+    <Param group="255" id="255" name="" unit="" dataType="" format="" visible="不可见" wrRight="超级用户" desc="" value=""></Param>
+  </ParamList>
+</root>
